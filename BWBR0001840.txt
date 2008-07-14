@@ -2,7 +2,7 @@
 
 Grondwet
 Geraadpleegd op 19-10-2023.
-Geldend van 11-10-2006 t/m 14-07-2008
+Geldend van 15-07-2008 t/m 16-11-2017
 
 Grondwet voor het Koninkrijk der Nederlanden van 24 augustus 1815
 
@@ -351,9 +351,7 @@ Artikel 54
 
 1.	De leden van de Tweede Kamer worden rechtstreeks gekozen door de Nederlanders die de leeftijd van achttien jaar hebben bereikt, behoudens bij de wet te bepalen uitzonderingen ten aanzien van Nederlanders die geen ingezetenen zijn.
 
-2.	Van het kiesrecht is uitgesloten:
-	a.	hij die wegens het begaan van een daartoe bij de wet aangewezen delict bij onherroepelijke rechterlijke uitspraak is veroordeeld tot een vrijheidsstraf van ten minste een jaar en hierbij tevens is ontzet van het kiesrecht;
-	b.	hij die krachtens onherroepelijke rechterlijke uitspraak wegens een geestelijke stoornis onbekwaam is rechtshandelingen te verrichten.
+2.	Van het kiesrecht is uitgesloten hij die wegens het begaan van een daartoe bij de wet aangewezen delict bij onherroepelijke rechterlijke uitspraak is veroordeeld tot een vrijheidsstraf van ten minste een jaar en hierbij tevens is ontzet van het kiesrecht.
 
 Artikel 55
 
@@ -803,11 +801,9 @@ Artikel 125
 
 2.	Van het bestuur van de provincie maken ook deel uit gedeputeerde staten en de commissaris van de Koning, van het bestuur van de gemeente het college van burgemeester en wethouders en de burgemeester.
 
-3.	De commissaris van de Koning en de burgemeester zijn voorzitter van de vergaderingen van provinciale staten onderscheidenlijk de gemeenteraad.
-
 Artikel 126
 
-Bij de wet kan worden bepaald, dat de commissaris van de Koning voorts wordt belast met de uitvoering van een door de regering te geven ambtsinstructie.
+Bij de wet kan worden bepaald, dat de commissaris van de Koning wordt belast met de uitvoering van een door de regering te geven ambtsinstructie.
 
 Artikel 127
 
@@ -851,7 +847,7 @@ Artikel 132
 
 5.	De wet regelt de voorzieningen bij in gebreke blijven ten aanzien van regeling en bestuur, gevorderd krachtens artikel 124, tweede lid. Bij de wet kunnen met afwijking van de artikelen 125 en 127 voorzieningen worden getroffen voor het geval het bestuur van een provincie of een gemeente zijn taken grovelijk verwaarloost.
 
-6.	De wet bepaalt welke belastingen door de besturen van provincies en gemeenten kunnen worden geheven en regelt hun financiële verhouding tot het rijk.
+6.	De wet bepaalt welke belastingen door de besturen van provincies en gemeenten kunnen worden geheven en regelt hun financiële verhouding tot het Rijk.
 
 Artikel 133
 
@@ -923,7 +919,11 @@ De artikelen 57a en 129, derde lid, tweede volzin treden eerst na vier jaar of o
 
 Artikel II
 
-[Vervallen per 01-11-1995]
+Artikel 54, tweede lid, naar de tekst van 1983 blijft gedurende vijf jaren of een bij of krachtens de wet te bepalen kortere termijn van kracht. Deze termijn kan bij de wet voor ten hoogste vijf jaren worden verlengd.
+	*	Artikel 54, tweede lid
+Van het kiesrecht is uitgesloten:
+	a.	hij die wegens het begaan van een daartoe bij de wet aangewezen delict bij onherroepelijke rechterlijke uitspraak is veroordeeld tot een vrijheidsstraf van ten minste een jaar en hierbij tevens is ontzet van het kiesrecht;
+	b.	hij die krachtens onherroepelijke rechterlijke uitspraak wegens een geestelijke stoornis onbekwaam is rechtshandelingen te verrichten.
 
 Artikel III
 
@@ -1000,7 +1000,7 @@ Het formulier van afkondiging der wetten is het volgende:
 (De beweegredenen der wet).
 "Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze" enz.
 (De inhoud der wet).
-"Gegeven", enz.
+"Gegeven". enz.
 Ingeval een Koningin regeert of het Koninklijk gezag door een Regent of door de Raad van State wordt waargenomen, wordt de daardoor nodige wijziging in dit formulier gebracht.
 
 	Artikel.	130
