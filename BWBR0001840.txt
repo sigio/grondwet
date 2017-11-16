@@ -2,7 +2,7 @@
 
 Grondwet
 Geraadpleegd op 19-10-2023.
-Geldend van 15-07-2008 t/m 16-11-2017
+Geldend van 17-11-2017 t/m 20-12-2018
 
 Grondwet voor het Koninkrijk der Nederlanden van 24 augustus 1815
 
@@ -154,7 +154,7 @@ Artikel 23
 
 3.	Het openbaar onderwijs wordt, met eerbiediging van ieders godsdienst of levensovertuiging, bij de wet geregeld.
 
-4.	In elke gemeente wordt van overheidswege voldoend openbaar algemeen vormend lager onderwijs gegeven in een genoegzaam aantal openbare scholen. Volgens bij de wet te stellen regels kan afwijking van deze bepaling worden toegelaten, mits tot het ontvangen van zodanig onderwijs gelegenheid wordt gegeven, al dan niet in een openbare school.
+4.	In elke gemeente en in elk van de openbare lichamen, bedoeld in artikel 132a, wordt van overheidswege voldoend openbaar algemeen vormend lager onderwijs gegeven in een genoegzaam aantal openbare scholen. Volgens bij de wet te stellen regels kan afwijking van deze bepaling worden toegelaten, mits tot het ontvangen van zodanig onderwijs gelegenheid wordt gegeven, al dan niet in een openbare school.
 
 5.	De eisen van deugdelijkheid, aan het geheel of ten dele uit de openbare kas te bekostigen onderwijs te stellen, worden bij de wet geregeld, met inachtneming, voor zover het bijzonder onderwijs betreft, van de vrijheid van richting.
 
@@ -355,7 +355,7 @@ Artikel 54
 
 Artikel 55
 
-De leden van de Eerste Kamer worden gekozen door de leden van provinciale staten. De verkiezing wordt, behoudens in geval van ontbinding der kamer, gehouden binnen drie maanden na de verkiezing van de leden van provinciale staten.
+De leden van de Eerste Kamer worden gekozen door de leden van provinciale staten en de leden van een kiescollege als bedoeld in artikel 132a, derde lid. De verkiezing wordt, behoudens in geval van ontbinding der kamer, gehouden binnen drie maanden na de verkiezing van de leden van provinciale staten.
 
 Artikel 56
 
@@ -665,7 +665,7 @@ Artikel 103
 
 1.	De wet bepaalt in welke gevallen ter handhaving van de uit- of inwendige veiligheid bij koninklijk besluit een door de wet als zodanig aan te wijzen uitzonderingstoestand kan worden afgekondigd; zij regelt de gevolgen.
 
-2.	Daarbij kan worden afgeweken van de grondwetsbepalingen inzake de bevoegdheden van de besturen van provincies, gemeenten en waterschappen, van de grondrechten geregeld in de artikelen 6, voor zover dit de uitoefening buiten gebouwen en besloten plaatsen van het in dit artikel omschreven recht betreft, 7, 8, 9, 12, tweede en derde lid, en 13, alsmede van artikel 113, eerste en derde lid.
+2.	Daarbij kan worden afgeweken van de grondwetsbepalingen inzake de bevoegdheden van de besturen van provincies, gemeenten, openbare lichamen als bedoeld in artikel 132a en waterschappen, van de grondrechten geregeld in de artikelen 6, voor zover dit de uitoefening buiten gebouwen en besloten plaatsen van het in dit artikel omschreven recht betreft, 7, 8, 9, 12, tweede en derde lid, en 13, alsmede van artikel 113, eerste en derde lid.
 
 3.	Terstond na de afkondiging van een uitzonderingstoestand en voorts, zolang deze niet bij koninklijk besluit is opgeheven, telkens wanneer zij zulks nodig oordelen beslissen de Staten-Generaal omtrent het voortduren daarvan; zij beraadslagen en besluiten ter zake in verenigde vergadering.
 
@@ -781,7 +781,7 @@ Artikel 122
 
 2.	Amnestie wordt bij of krachtens de wet verleend.
 
-Hoofdstuk 7. Provincies, gemeenten, waterschappen en andere openbare lichamen
+Hoofdstuk 7. Provincies, gemeenten, Caribische openbare lichamen, waterschappen en andere openbare lichamen
 
 Artikel 123
 
@@ -848,6 +848,16 @@ Artikel 132
 5.	De wet regelt de voorzieningen bij in gebreke blijven ten aanzien van regeling en bestuur, gevorderd krachtens artikel 124, tweede lid. Bij de wet kunnen met afwijking van de artikelen 125 en 127 voorzieningen worden getroffen voor het geval het bestuur van een provincie of een gemeente zijn taken grovelijk verwaarloost.
 
 6.	De wet bepaalt welke belastingen door de besturen van provincies en gemeenten kunnen worden geheven en regelt hun financiële verhouding tot het Rijk.
+
+Artikel 132a
+
+1.	Bij de wet kunnen in het Caribische deel van Nederland andere territoriale openbare lichamen dan provincies en gemeenten worden ingesteld en opgeheven.
+
+2.	De artikelen 124, 125 en 127 tot en met 132 zijn ten aanzien van deze openbare lichamen van overeenkomstige toepassing.
+
+3.	In deze openbare lichamen worden verkiezingen gehouden voor een kiescollege voor de Eerste Kamer. Artikel 129 is van overeenkomstige toepassing.
+
+4.	Voor deze openbare lichamen kunnen regels worden gesteld en andere specifieke maatregelen worden getroffen met het oog op bijzondere omstandigheden waardoor deze openbare lichamen zich wezenlijk onderscheiden van het Europese deel van Nederland.
 
 Artikel 133
 
@@ -931,7 +941,7 @@ Artikel III
 
 Artikel IV
 
-[Vervallen per 01-11-1995]
+[Wijzigt het Statuut voor het Koninkrijk der Nederlanden.]
 
 Artikel V
 
