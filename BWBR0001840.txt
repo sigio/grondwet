@@ -2,9 +2,13 @@
 
 Grondwet
 Geraadpleegd op 19-10-2023.
-Geldend van 21-12-2018 t/m 17-08-2022
+Geldend van 18-08-2022 t/m 29-08-2022
 
 Grondwet voor het Koninkrijk der Nederlanden van 24 augustus 1815
+
+Algemene bepaling
+
+[Dit onderdeel is nog niet inwerking getreden]
 
 Hoofdstuk 1. Grondrechten
 
@@ -355,7 +359,9 @@ Artikel 54
 
 Artikel 55
 
-De leden van de Eerste Kamer worden gekozen door de leden van provinciale staten en de leden van een kiescollege als bedoeld in artikel 132a, derde lid. De verkiezing wordt, behoudens in geval van ontbinding der kamer, gehouden binnen drie maanden na de verkiezing van de leden van provinciale staten.
+1.	De leden van de Eerste Kamer worden gekozen door de leden van provinciale staten en de leden van de kiescolleges, bedoeld in het tweede lid en artikel 132a, derde lid. De verkiezing wordt, behoudens in geval van ontbinding der kamer, gehouden binnen drie maanden na de verkiezing van de leden van provinciale staten.
+
+2.	Ten behoeve van Nederlanders die geen ingezetenen zijn en die voldoen aan de vereisten die gelden voor de verkiezing van de Tweede Kamer der Staten-Generaal, worden verkiezingen gehouden voor een kiescollege voor de Eerste Kamer. De leden van dit kiescollege worden rechtstreeks gekozen door deze Nederlanders. Voor het lidmaatschap gelden dezelfde vereisten. Artikel 129, tweede tot en met zesde lid, is van overeenkomstige toepassing.
 
 Artikel 56
 
@@ -813,6 +819,10 @@ Artikel 128
 
 Behoudens in de gevallen bedoeld in artikel 123, kan de toekenning van bevoegdheden, als bedoeld in artikel 124, eerste lid, aan andere organen dan die, genoemd in artikel 125, alleen door provinciale staten onderscheidenlijk de gemeenteraad geschieden.
 
+Artikel 128a
+
+[Dit onderdeel is nog niet inwerking getreden]
+
 Artikel 129
 
 1.	De leden van provinciale staten en van de gemeenteraad worden rechtstreeks gekozen door de Nederlanders, tevens ingezetenen van de provincie onderscheidenlijk de gemeente, die voldoen aan de vereisten die gelden voor de verkiezing van de Tweede Kamer der Staten-Generaal. Voor het lidmaatschap gelden dezelfde vereisten.
@@ -866,6 +876,10 @@ Artikel 133
 2.	De wet regelt de verordenende en andere bevoegdheden van de besturen van de waterschappen, alsmede de openbaarheid van hun vergaderingen.
 
 3.	De wet regelt het provinciale en overige toezicht op deze besturen. Vernietiging van besluiten van deze besturen kan alleen geschieden wegens strijd met het recht of het algemeen belang.
+
+Artikel 133a
+
+[Dit onderdeel is nog niet inwerking getreden]
 
 Artikel 134
 
@@ -949,7 +963,9 @@ Artikel V
 
 Artikel VI
 
-[Vervallen per 01-11-1995]
+1.	Artikel 55 naar de tekst van 2017 blijft gedurende vijf jaren of een bij of krachtens de wet te bepalen kortere termijn van kracht. Deze termijn kan bij de wet voor ten hoogste vijf jaren worden verlengd.
+
+2.	Dit additionele artikel vervalt op de dag waarop de termijn, bedoeld in het eerste lid, eindigt.
 
 Artikel VII
 
@@ -1062,3 +1078,7 @@ Artikel XXIX
 Artikel XXX
 
 [Vervallen per 02-11-1999]
+
+Artikel XXXI
+
+[Dit onderdeel is nog niet inwerking getreden]
