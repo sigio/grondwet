@@ -2,13 +2,13 @@
 
 Grondwet
 Geraadpleegd op 19-10-2023.
-Geldend van 18-08-2022 t/m 29-08-2022
+Geldend van 30-08-2022 t/m 31-10-2022
 
 Grondwet voor het Koninkrijk der Nederlanden van 24 augustus 1815
 
 Algemene bepaling
 
-[Dit onderdeel is nog niet inwerking getreden]
+De Grondwet waarborgt de grondrechten en de democratische rechtsstaat.
 
 Hoofdstuk 1. Grondrechten
 
@@ -86,9 +86,9 @@ Artikel 12
 
 Artikel 13
 
-1.	Het briefgeheim is onschendbaar, behalve, in de gevallen bij de wet bepaald, op last van de rechter.
+1.	Ieder heeft recht op eerbiediging van zijn brief- en telecommunicatiegeheim.
 
-2.	Het telefoon- en telegraafgeheim is onschendbaar, behalve, in de gevallen bij de wet bepaald, door of met machtiging van hen die daartoe bij de wet zijn aangewezen.
+2.	Beperking van dit recht is mogelijk in de gevallen bij de wet bepaald met machtiging van de rechter of, in het belang van de nationale veiligheid, door of met machtiging van hen die daartoe bij de wet zijn aangewezen.
 
 Artikel 14
 
@@ -114,7 +114,9 @@ Geen feit is strafbaar dan uit kracht van een daaraan voorafgegane wettelijke st
 
 Artikel 17
 
-Niemand kan tegen zijn wil worden afgehouden van de rechter die de wet hem toekent.
+1.	Ieder heeft bij het vaststellen van zijn rechten en verplichtingen of bij het bepalen van de gegrondheid van een tegen hem ingestelde vervolging recht op een eerlijk proces binnen een redelijke termijn voor een onafhankelijke en onpartijdige rechter.
+
+2.	Niemand kan tegen zijn wil worden afgehouden van de rechter die de wet hem toekent.
 
 Artikel 18
 
@@ -905,11 +907,9 @@ Artikel 137
 
 2.	De Tweede Kamer kan, al dan niet op een daartoe door of vanwege de Koning ingediend voorstel, een voorstel voor zodanige wet splitsen.
 
-3.	Na de bekendmaking van de wet, bedoeld in het eerste lid, wordt de Tweede Kamer ontbonden.
+3.	De Tweede Kamer die wordt gekozen na de bekendmaking van de wet, bedoeld in het eerste lid, overweegt in tweede lezing het voorstel tot verandering, bedoeld in het eerste lid. Indien deze Tweede Kamer geen besluit neemt over het voorstel, vervalt dit van rechtswege. Zodra zij het voorstel heeft aangenomen, overweegt de Eerste Kamer dit in tweede lezing. De beide kamers kunnen het voorstel tot verandering alleen aannemen met ten minste twee derden van het aantal uitgebrachte stemmen.
 
-4.	Nadat de nieuwe Tweede Kamer is samengekomen, overwegen beide kamers in tweede lezing het voorstel tot verandering, bedoeld in het eerste lid. Zij kunnen dit alleen aannemen met ten minste twee derden van het aantal uitgebrachte stemmen.
-
-5.	De Tweede Kamer kan, al dan niet op een daartoe door of vanwege de Koning ingediend voorstel, met ten minste twee derden van het aantal uitgebrachte stemmen een voorstel tot verandering splitsen.
+4.	De Tweede Kamer kan, al dan niet op een daartoe door of vanwege de Koning ingediend voorstel, met ten minste twee derden van het aantal uitgebrachte stemmen een voorstel tot verandering splitsen.
 
 Artikel 138
 
@@ -939,15 +939,11 @@ Additionele artikelen
 
 Artikel I
 
-De artikelen 57a en 129, derde lid, tweede volzin treden eerst na vier jaar of op een bij of krachtens de wet te bepalen eerder tijdstip in werking.
+[Vervallen per 30-08-2022]
 
 Artikel II
 
-Artikel 54, tweede lid, naar de tekst van 1983 blijft gedurende vijf jaren of een bij of krachtens de wet te bepalen kortere termijn van kracht. Deze termijn kan bij de wet voor ten hoogste vijf jaren worden verlengd.
-	*	Artikel 54, tweede lid
-Van het kiesrecht is uitgesloten:
-	a.	hij die wegens het begaan van een daartoe bij de wet aangewezen delict bij onherroepelijke rechterlijke uitspraak is veroordeeld tot een vrijheidsstraf van ten minste een jaar en hierbij tevens is ontzet van het kiesrecht;
-	b.	hij die krachtens onherroepelijke rechterlijke uitspraak wegens een geestelijke stoornis onbekwaam is rechtshandelingen te verrichten.
+[Vervallen per 30-08-2022]
 
 Artikel III
 
@@ -959,7 +955,13 @@ Artikel IV
 
 Artikel V
 
-[Vervallen per 01-11-1995]
+1.	Artikel 137 van de Grondwet zoals dat luidde voor de inwerkingtreding van dit artikel, blijft van kracht ten aanzien van een voorstel tot verandering in de Grondwet waarvan de wet die verklaart dat zij in overweging zal worden genomen, is bekendgemaakt vóór de datum waarop de Tweede Kamer is gekozen die zitting heeft op de datum van inwerkingtreding van dit artikel.
+
+2.	Indien een wijziging van artikel 137 van de Grondwet in werking is getreden die ertoe strekt dat de Staten-Generaal in verenigde vergadering een voorstel tot verandering in de Grondwet in tweede lezing overwegen, komt het derde lid van artikel 137 van de Grondwet te luiden:
+
+3. Nadat de Tweede Kamer die wordt gekozen na de bekendmaking van de wet, bedoeld in het eerste lid, is samengekomen, overwegen de Staten-Generaal in verenigde vergadering in tweede lezing het voorstel tot verandering, bedoeld in het eerste lid. Zij kunnen dit alleen aannemen met ten minste twee derden van het aantal uitgebrachte stemmen. Indien zij gedurende de zittingsduur van de in de eerste volzin bedoelde Tweede Kamer geen besluit nemen over het voorstel, vervalt dit van rechtswege.
+
+3.	Dit additionele artikel vervalt op een bij wet te bepalen tijdstip, nadat de behandeling van voorstellen tot verandering in de Grondwet als bedoeld in het eerste en het tweede lid is afgerond.
 
 Artikel VI
 
